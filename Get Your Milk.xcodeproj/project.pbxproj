@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		46419FC42132E28A0009C461 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46419FC32132E28A0009C461 /* AppDelegate.swift */; };
+		460B41DC213392E800D7E581 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460B41DB213392E800D7E581 /* AppDelegate.swift */; };
 		46419FC62132E28A0009C461 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46419FC52132E28A0009C461 /* ViewController.swift */; };
 		46419FC92132E28A0009C461 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46419FC72132E28A0009C461 /* Main.storyboard */; };
 		46419FCB2132E28B0009C461 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46419FCA2132E28B0009C461 /* Assets.xcassets */; };
@@ -15,8 +15,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		460B41DB213392E800D7E581 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46419FC02132E28A0009C461 /* Get Your Milk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Get Your Milk.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		46419FC32132E28A0009C461 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46419FC52132E28A0009C461 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		46419FC82132E28A0009C461 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		46419FCA2132E28B0009C461 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		46419FC22132E28A0009C461 /* Get Your Milk */ = {
 			isa = PBXGroup;
 			children = (
-				46419FC32132E28A0009C461 /* AppDelegate.swift */,
+				460B41DB213392E800D7E581 /* AppDelegate.swift */,
 				46419FC52132E28A0009C461 /* ViewController.swift */,
 				46419FC72132E28A0009C461 /* Main.storyboard */,
 				46419FCA2132E28B0009C461 /* Assets.xcassets */,
@@ -135,8 +135,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				460B41DC213392E800D7E581 /* AppDelegate.swift in Sources */,
 				46419FC62132E28A0009C461 /* ViewController.swift in Sources */,
-				46419FC42132E28A0009C461 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
